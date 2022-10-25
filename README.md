@@ -2,4 +2,4 @@
 
 ## Welcome to my C#-Sandbox
 
-I will be adding some of the programs I have written in C#
+In this repository, I will be uploading programs which I have written in C# to address specfic scenarios;
