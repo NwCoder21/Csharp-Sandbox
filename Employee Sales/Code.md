@@ -1,4 +1,4 @@
-```cs
+```c#
 using System;
 
 namespace ConsoleApp3PastPaperJan2020_EmployeeSales
@@ -168,4 +168,5 @@ namespace ConsoleApp3PastPaperJan2020_EmployeeSales
         }
     }
 }
+
 ```
