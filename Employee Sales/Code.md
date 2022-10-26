@@ -44,7 +44,6 @@ namespace ConsoleApp3PastPaperJan2020_EmployeeSales
 
             double[] salesCommissionForEachEmployee = new double[numberOfEmployees];
 
-
             //enter employee details
             while (count < numberOfEmployees)
             {
@@ -132,7 +131,6 @@ namespace ConsoleApp3PastPaperJan2020_EmployeeSales
             Console.WriteLine("##############");
             Console.WriteLine("The order of who sold the most properties is:");
             Console.WriteLine("");
-
 
             count = 0;
             count = 0;
