@@ -20,7 +20,6 @@ namespace ConsoleApp3PastPaperApril2018_RaceTimes
             int athelteNumberTemp; 
             int counter = 0;
     
-
 //mens record times 
             double menWorldReTime = 9.58;
             double menEuropeanRecTime = 9.86;
@@ -30,7 +29,6 @@ namespace ConsoleApp3PastPaperApril2018_RaceTimes
             double wommenWorldReTime = 10.49;
             double womenEuropeanRecTime = 10.73;
             double womenBritishRecRecTime = 10.99;
-
 
 // method for error handling numbers in the program
             double ValidationAndErrorHandling (string question)
